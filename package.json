@@ -1,0 +1,15 @@
+{
+  "name": "hapi-api",
+  "version": "1.0.0",
+  "description": "working with hapi",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Corey Ghilarduucci",
+  "license": "MIT",
+  "dependencies": {
+    "hapi": "^11.1.1",
+    "hapi-dummy-api": "^1.0.1"
+  }
+}
